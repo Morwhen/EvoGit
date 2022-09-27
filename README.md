@@ -10,3 +10,4 @@
 ## Develop only
 - Modify dev only
 - modify dev only, remote
+- Modify dev only, local
